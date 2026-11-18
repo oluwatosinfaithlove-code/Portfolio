@@ -19,7 +19,7 @@ that people actually use.
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Sales Dashboard](https://github.com/oluwatosinfaithlove-code/Retail-sales-customer-performance-analysis) | Interactive dashboard analyzing sales trends and regional performance | Excel, Power BI |
+| [Retail sales and customer performance ](https://github.com/oluwatosinfaithlove-code/Retail-sales-customer-performance-analysis) | Interactive dashboard analyzing sales trends and regional performance | Excel, Power BI |
 | [Logistics Operations & Fleet Performance Analytics](https://github.com/oluwatosinfaithlove-code/logistics-operations-business-performance-analysis) | Interactive dashboard evaluate driver performance, route profitability, fleet utilization, fuel efficiency, maintenance costs, customer service, and safety. | Excel, Power BI |
 | [Superstore Data Cleaning](link-to-repo) | Cleaned and prepared messy retail data for analysis | Excel, PowerBi |
 
